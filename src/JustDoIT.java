@@ -7,6 +7,12 @@ public class JustDoIT {
         char gender = 'm';
         char test = 9;
         boolean isStudent = false;
+        boolean hasJob = true;
+        int test2 = (int)weight;
+        System.out.print(test);
+        System.out.print(test2);
+
+
 
     }
 }
