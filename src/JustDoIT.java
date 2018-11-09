@@ -20,10 +20,5 @@ public class JustDoIT {
         double a = 5;
         int b = 2;
         double c = a%b;
-
-
-
-
-
     }
 }
